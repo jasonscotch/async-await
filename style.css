@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    height: 500px;
+    background-color: green;
+  }
+  
+  /* Style the card container */
+  #cards {
+    margin-top: 50px;
+  }
+  
+  /* Style the cards */
+  #cards img {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    transform-origin: center;
+  }
+  
+  /* Center the button */
+  button {
+    margin: 15px; /* Add some space between the cards and the button */
+  }
+  
+  
